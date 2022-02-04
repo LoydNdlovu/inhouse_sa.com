@@ -1,0 +1,556 @@
+
+header {
+    align-items: center;
+    background-color: white;
+    font-weight:;
+    box-shadow: 0 0 20px 0 #d3d3d3;
+    margin-left: -12%;
+    margin-top: -0.5%;
+    width: 123.5%;
+}
+
+/* Logo */
+#logo { 
+    width: 8%;
+    height: 8%;
+    margin-top: 0.1%;
+    margin-left: 47%;
+    display: flex;
+    border-radius: 7%;
+}
+
+/* Website's Name */
+pA {
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    margin-top: -0.2%;
+    padding: 0%;
+    font-family: ms reference sans serif;
+    font-size: 80%;
+    color: #3d3d3d;
+    font-weight: bold;
+}
+
+/* Quote */
+pB {
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 0%;
+    font-family: ms reference sans serif;
+    font-size: 80%;
+    color: #202020;
+    font-weight: 500;
+}
+
+/* Contains Main Categories of Software */
+.btn_container1 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 2.5%;
+    margin-bottom: 1%;
+    font-weight: 500;
+    color: #080808;
+}
+
+#first_img {
+    margin-top: 10px;
+    width: 115px;
+    height: 115px;
+    margin: 0 45px;
+}
+
+#sec_img {
+    margin-top: 15px;
+    width: 100px;
+    height: 100px;
+    margin: 0 50px;
+    margin-bottom: 15px;
+}
+
+hA {
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 0%;
+    font-family: ms reference sans serif;
+    font-size: 80%;
+    color: #303030;
+}
+
+/* Contains Main Categories of Software */
+.btn_container {
+    display: flex;
+    justify-content: column;
+    text-align: center;
+    align-items: center;
+    width: 140vw;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0%;
+    font-weight: 500;
+    color: #080808;
+}
+
+/* Sub Categories of Software */
+#sec_nav {
+    display: flex;
+    justify-content: column;
+    margin: 0 3%;
+    margin-top: 0.1%;
+    margin-bottom: 0.5%;
+    padding: 0% 1%;
+    font-size: 94%;
+    font-family: ms reference sans serif;
+    font-weight: bold;
+    color: #3d3d3d;
+}
+
+#nav2 {
+    display:;
+    justify-content:;
+    text-align:;
+    margin-top: 1vh;
+    margin: 0 0.5%;
+    margin-bottom: 2%;
+    padding: 0px;
+    font-size: 12px;
+    box-shadow: 0 0 15px 0 #e8e8e8;
+    border-radius: 5px;
+    font-family: ms reference sans serif;
+    height: 10vh;
+    width: 500px;
+    align-items: center;
+    outline: 0.5px solid gainsboro;
+}
+
+a {
+    display:;
+    justify-content: center;
+    text-decoration: none;
+    margin-top: 0%;
+    color: gray;
+    font-family: ms reference sans serif;
+}
+
+/* Contains Content Related to Stores*/
+body {
+    margin: 0% 12%;
+    margin-top: 0%;
+    padding: 0%;
+    font-family: ms reference sans serif;
+    font-size:;
+    background-color: #f8f8f8;
+    font-weight: bold;
+    box-shadow: 0 0 20px 0 #d3d3d3;
+}
+
+.btn_container2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 0.2%;
+    margin-bottom: 0.2%;
+    width: 100%;
+    font-size: 98%;
+    background-color: white;
+    font-weight: 500;
+    color: #080808;
+}
+
+#third_nav {
+    display: flex;
+    justify-content: column;
+    text-align: center;
+    margin: 0 1%;
+    margin-top: 3.5%;
+    margin-bottom: 1.5%;
+    font-size: 94%;
+    height: 10vh;
+    width: 50vh;
+    padding: 0% 6%;
+    box-shadow: 0 0 15px 0 #e8e8e8;
+    border-radius: 3px;
+    align-items: center;
+    outline: 0.5px solid gainsboro;
+    font-weight: bold;
+    color: #3d3d3d;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items:;
+    margin-top: 0.2%;
+    background-color: white;
+    font-weight: 500;
+}
+
+pfoot {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: ms reference sans serif;
+    color: #e5e4e2;
+}
+
+    p button {
+        width: 170px;
+    }
+
+img {
+    width: 70px;
+    height: 70px;
+}
+
+/* Contains Images Related to Stores */
+
+table {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9em;
+    font-family: ms reference sans serif;
+    margin-top: 10px;
+    margin-left: 5%;
+    background-color: white;
+}
+
+tr {
+    border: none;
+}
+
+td {
+    border-right: 0.5px solid #BFC9C7;
+}
+
+th {
+    color: gray;
+    font-family: ms reference sans serif;
+}
+
+tr td {
+    padding: 10px;
+}
+
+    tr td img {
+        width: 60px;
+        height: 62px;
+    }
+
+.scrolling {
+
+    white-space: nowrap;
+    overflow-x: scroll;
+}
+
+    .scrolling:active {
+        cursor: grabbing;
+    }
+
+#img {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    -webkit-transition: all 500ms ease-out;
+    -moz-transition: all 500ms ease-out;
+    box-shadow: 0px 0px 4px 0px;
+}
+
+/* contains terms & conditions */
+
+footer {
+    margin-top: 2px;
+    height: 30px;
+    background-color: white;
+}
+
+#terms_Cond1 {
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+}
+
+pC {
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    font-family: ms reference sans serif;
+    color: gray;
+    margin-top: -10px;
+}
+
+pD {
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+    font-family: ms reference sans serif;
+    color: gray;
+    margin-top: 10px;
+    background-color: white;
+}
+
+@media (max-width: 630px) {
+    header {
+        margin: 0%;
+        margin-top: -1.5%;
+        width: 100%;
+        align-items: center;
+        background-color: white;
+        font-weight: 500;
+    }
+
+    #logo {
+        width: 18%;
+        height: 18%;
+        margin-top: 1.5%;
+        border-radius: 30%;
+    }
+
+    pA {
+        display: flex;
+        justify-content: center;
+        margin: 0%;
+        margin-top: -1%;
+        padding: 0%;
+        font-family: sans serif;
+        font-size: 60%;
+        color: #383838;
+        font-weight: 500;
+    }
+   
+    pB{
+        display: flex;
+        justify-content: center;
+        margin: 0%;
+        margin-top: 1.8%;
+        padding: 0%;
+        font-family: ms reference sans serif;
+        font-size: 55%;
+        color: #383838;
+        font-weight: 500;
+    }
+
+    #first_nav {
+        width: 100vw;
+        font-size: 9.5px;
+    }
+
+    .btn-container1 {
+        display: flex;
+        justify-content: column;
+        align-items: center;
+        margin: 0% 0%;
+        width: %;
+        margin-top: 5%;
+        margin-bottom: 2%;
+        font-weight: 500;
+    }
+
+    #first_img {
+        width: 70px;
+        height: 70px;
+        margin: 0 12px;
+        margin-bottom: -1px;
+    }
+
+    #sec_img {
+        width: 63px;
+        height: 63px;
+        margin: 0 8px;
+        margin-top: 2px;
+        margin-bottom: 7px;
+    }
+
+    hA {
+        font-size: 9px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        color: #383838;
+    }
+
+    /* Contains Main Categories of Software */
+    .btn_container {
+        display:;
+        justify-content:;
+        width: 50%;
+        padding: 0%;
+        margin-top: 4%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-bottom: 0%;
+    }
+
+    /* Categories */
+    button {
+        background-color: white;
+        border-radius: 3px;
+        border: 2px;
+        height: 70px;
+        width: 100%;
+        padding: 5%;
+        margin: 0 1%;
+        margin-top: %;
+        margin-bottom: 0.2%;
+        text-decoration: none;
+        color: #383838;
+        box-shadow: 0 0 4px 0 gainsboro;
+        font-size: 114.8%;
+        font-weight: 500;
+        outline: 0.5px solid gainsboro;
+    }
+
+        button a {
+            margin-top: -2px;
+            font-size: 11.5px;
+        }
+
+    p button {
+        width: 20vw;
+        height: 5vh;
+    }
+
+   
+    /* Sub Categories of Software */
+
+    #sec_nav {
+        display: flex;
+        justify-content: column;
+        margin: 0 3.9%;
+        margin-top: 2%;
+        margin-bottom: 2%;
+        padding: -1% -6%;
+        font-size: 92%;
+        font-family: ms reference sans serif;
+        width: 100%;
+        color: #383838;
+        font-weight: bold;
+    }
+
+    a {
+        display:;
+        justify-content:;
+        text-decoration: none;
+        margin-top: 0%;
+        color: #383838;
+        font-family: ms reference sans serif;
+    }
+
+    /*  Stores content */
+
+    body {
+        margin: 0%;
+        margin-top: 0%;
+        padding: 0%;
+        font-family: ms reference sans serif;
+        font-size:;
+        background-color: white;
+        #e5e4e2 font-weight: 500;
+    }
+
+    .btn-container2 {
+        display: flex;
+        justify-content: column;
+        width: 96%;
+        margin-top: 0.3%;
+        padding: 2%;
+    }
+
+    #third_nav {
+        display: flex;
+        justify-content: column;
+        text-align: center;
+        margin: 0 1.5%;
+        margin-top: -2%;
+        margin-bottom: 1%;
+        font-size: 85%;
+        height: 62px;
+        padding: 0% 2.8%;
+        box-shadow: 0 0 5px 0 gainsboro;
+        border-radius: 3px;
+        align-items: center;
+        outline: 0.5px solid gainsboro;
+        font-weight: bold;
+    }
+
+    section {
+        display: flex;
+        justify-content: column;
+        align-items:;
+        margin-top: 1%;
+        background-color: white;
+        font-weight: 500;
+        border-top: 10.2px solid gainsboro;
+    }
+    .scrolling {
+        margin-top: -11.5px;
+        background-color: white;
+    }
+    table {
+        margin-top: 2px;
+        margin-left: 5%;
+        height: 500px;
+        font-size: 13px;
+    }
+    tr td {
+        padding: 1px;
+        height: 90px;
+    }
+}
+
+/* bottom text */
+footer {
+    border-top: 10.5px solid gainsboro;
+    margin-top: 0px;
+    height: 10vh;
+}
+#terms_Cond {
+    margin-top: 0px;
+}
+pC {
+    margin-top: 0px;
+}
+
+}
+
+@media(max-height: 522px) {
+
+
+    body {
+        overflow-x: hidden;
+    }
+
+    section {
+        margin-bottom: 20px;
+    }
+
+    table {
+        margin: 0;
+        margin-top: 10px;
+        margin-left: 5%;
+        padding: 0;
+    }
+    #footer {
+        position: fixed;
+    }
+}
+
+@media (max-height: 570px) and (max-width: 630px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    section {
+        margin-bottom: 13px;
+    }
+
+    footer {
+        position: relative;
+    }
+}
